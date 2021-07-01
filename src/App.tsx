@@ -20,7 +20,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Kevin Eaton
+            Kevin S. Eaton
           </a>
           <span>, </span>
           <a
